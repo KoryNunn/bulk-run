@@ -7,9 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "minimist": "0.0.8"
-  },
+  "dependencies": {},
   "preferGlobal": "true",
   "bin": {
     "bulk-run": "./runner.js"
