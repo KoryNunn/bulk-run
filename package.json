@@ -1,0 +1,26 @@
+{
+  "name": "bulk-run",
+  "version": "0.0.0",
+  "main": "runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "0.0.8"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "bulk-run": "./runner.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KoryNunn/bulk-run.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/bulk-run/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/bulk-run"
+}
